@@ -1,0 +1,21 @@
+{
+    "Switch1": {
+      "device_type": "arista_eos",
+      "ip": "IP Address",
+      "state": "STATE",
+      "site": "SITE NAME"
+    },
+    "Switch2": {
+      "device_type": "cisco_ios",
+      "ip": "IP Address",
+      "state": "STATE",
+      "site": "SITE NAME"
+    },
+    "Switch3": {
+      "device_type": "cisco_iosxe",
+      "ip": "IP Address",
+      "state": "STATE",
+      "site": "SITE NAME"
+
+    }
+  }
